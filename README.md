@@ -32,7 +32,7 @@ An enterprise-grade Excel automation solution that transforms spreadsheets into 
 ## ✏️ Author <a name="author"></a>
 
 [![GitHub](https://img.shields.io/badge/-Ingrid_Vasconcelos-181717?logo=github&logoColor=white)](https://github.com/Ingridvasc)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ingrid-karoline-vasconcelos-da-silva-18635a230/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ingrid-vasconcelos-18635a230/)
 
 ## 🛠 Tech Stack
 
